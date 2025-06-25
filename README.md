@@ -21,7 +21,9 @@ Nghiên cứu tập trung vào các triệu chứng và trạng thái sức kh�
 Cụ thể, dự án sẽ đi sâu vào:
 
 Triệu chứng ho: Một triệu chứng thường thấy ở các bệnh về mũi họng, có liên quan mật thiết đến phổi và phế quản.
+
 Triệu chứng ngáp ngủ: Biểu hiện đặc trưng của trạng thái mệt mỏi, thiếu ngủ, gây suy nhược cơ thể.
+
 III. Công nghệ sử dụng
 
 Mô hình AI: YOLOv8
