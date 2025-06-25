@@ -1,22 +1,25 @@
-Ứng dụng trí tuệ nhân tạo giúp phát hiện sớm các triệu chứng bệnh lý ở giảng viên và sinh viên!
+Ứng dụng Trí tuệ Nhân tạo Phát hiện Sớm Triệu chứng Bệnh lý ở Giảng viên và Sinh viên
+Tên dự án: Ứng dụng Trí tuệ Nhân tạo Phát hiện Sớm Triệu chứng Bệnh lý ở Giảng viên và Sinh viên
 
 Sinh viên thực hiện:
 
 Bùi Thị Hương Giang (TTM63DH)
-
 Lê Quốc Duy (TTM63DH)
-
 Nguyễn Bá Tùng (CNT63DH)
+I. Mục tiêu nghiên cứu
+Dự án này hướng đến việc phát triển một phần mềm ứng dụng Trí tuệ Nhân tạo (AI) có khả năng phát hiện và nhận diện các triệu chứng bệnh lý cũng như trạng thái cơ thể như ho, thiếu ngủ ở giảng viên và sinh viên Trường Đại học Hàng hải Việt Nam.
 
-Mục tiêu nghiên cứu: Tạo ra một phần mềm có kết hợp trí tuệ nhân tạo AI giúp phát hiện và nhận ra các triệu chứng bệnh lý và trạng thái cơ thể như ho, thiếu ngủ ở giảng viên và sinh viên trường Đại học Hàng hải Việt Nam.
-Nhằm nâng cao nhận thức về sức khỏe của giảng viên và sinh viên, giúp họ chú ý hơn đến các dấu hiệu bất thường của cơ thể trong guồng công việc và học tập căng thẳng.
+Mục tiêu chính là nâng cao nhận thức về sức khỏe cho cộng đồng giảng viên và sinh viên, khuyến khích họ chú ý hơn đến các dấu hiệu bất thường của cơ thể trong môi trường làm việc và học tập căng thẳng.
 
-Phạm vi nghiên cứu: Tập trung vào các triệu chứng và trạng thái bệnh thường gặp ở giảng viên và sinh viên trường Đại học Hàng Hải Việt Nam, biểu hiện qua khuôn mặt.
-Cụ thể là triệu chứng ho - một triệu chứng thường thấy ở các bệnh mũi họng, có liên quan mật thiết đến phổi và phế quản; và triệu chứng ngáp ngủ - biểu hiện đặc trưng của trạng thái mệt mỏi gây suy nhược cơ thể.
+II. Phạm vi nghiên cứu
+Nghiên cứu tập trung vào các triệu chứng và trạng thái sức khỏe phổ biến ở giảng viên và sinh viên Trường Đại học Hàng hải Việt Nam, với biểu hiện rõ ràng qua khuôn mặt.
 
-Mô hình sử dụng: YOLOv8
+Cụ thể, dự án sẽ đi sâu vào:
 
-Môi trường huấn luyện: Google Collab
-
-Kết quả mô hình huấn luyện: 
-https://drive.google.com/drive/folders/1bu9iCTWqzaUerrcz7Y-9NYzAlrsLwKCe
+Triệu chứng ho: Một triệu chứng thường thấy ở các bệnh về mũi họng, có liên quan mật thiết đến phổi và phế quản.
+Triệu chứng ngáp ngủ: Biểu hiện đặc trưng của trạng thái mệt mỏi, thiếu ngủ, gây suy nhược cơ thể.
+III. Công nghệ sử dụng
+Mô hình AI: YOLOv8
+Môi trường huấn luyện: Google Colaboratory (Google Colab)
+IV. Kết quả và Tài liệu
+Kết quả mô hình huấn luyện: https://drive.google.com/drive/folders/1bu9iCTWqzaUerrcz7Y-9NYzAlrsLwKCe
