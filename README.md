@@ -1,4 +1,4 @@
-# Ứng dụng Trí tuệ Nhân tạo Phát hiện Sớm Triệu chứng Bệnh lý ở Giảng viên và Sinh viên
+# Ứng dụng Trí tuệ Nhân tạo Phát hiện Sớm Triệu chứng Bệnh lý ở Giảng viên và Sinh viên trường Đại học Hàng Hải Việt Nam
 
 ## Sinh viên thực hiện
 
